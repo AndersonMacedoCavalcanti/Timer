@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e90331c3-f855-40d7-85cc-424175c8aff1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/@Types/styled.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/Router.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/components/Header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/components/Header/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/context/CyclesContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/layouts/DefaultLayout/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/layouts/DefaultLayout/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/History/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/History/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/components/CountDown/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/components/CountDown/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/components/NewCycleForm/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/components/NewCycleForm/styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/pages/Home/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/styles/globalStyle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/styles/themes/default.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DkduQ5JRsiyQmnIRShki4mNDbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ander/IdeaProjects/Timer/timer/src/pages/Home&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\ander\\IdeaProjects\\Timer\\timer\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\pages\Home" />
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\pages\Home\components" />
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\pages\History" />
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\pages\Home" />
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\components\Header" />
+      <recent name="C:\Users\ander\IdeaProjects\Timer\timer\src\layouts\DefaultLayout" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90331c3-f855-40d7-85cc-424175c8aff1" name="Changes" comment="" />
+      <created>1661247278374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661247278374</updated>
+      <workItem from="1661247314433" duration="451000" />
+      <workItem from="1661247925998" duration="199000" />
+      <workItem from="1661248163011" duration="4373000" />
+      <workItem from="1661253195261" duration="30203000" />
+      <workItem from="1661332604422" duration="6484000" />
+      <workItem from="1662382118105" duration="1740000" />
+      <workItem from="1662470013018" duration="477000" />
+      <workItem from="1662837762807" duration="541000" />
+      <workItem from="1662841211439" duration="12000" />
+      <workItem from="1663006137338" duration="4141000" />
+      <workItem from="1663783921416" duration="41000" />
+      <workItem from="1663787231338" duration="566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
