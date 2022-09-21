@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/49853451/191591678-35bbca6d-a5ed-4bb7-
 <ul>
   <li>ReactJS</li>
   <li>Typescript</li>
-  <li>NextJS</li>
   <li>Styled components</li>
   <li>Phosphor react</li>
   <li>React router</li>
